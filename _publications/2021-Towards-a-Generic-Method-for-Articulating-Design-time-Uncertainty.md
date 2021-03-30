@@ -3,7 +3,7 @@ title: "Towards a Generic Method for Articulating Design-time Uncertainty"
 collection: publications
 permalink: /publication/2021-Towards-a-Generic-Method-for-Articulating-Design-time-Uncertainty
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2021-5-30
+date: 2021-05-30
 venue: '[To Appear] Journal of Object Technology JOT'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Mouna Dhaouadi, Kate M. B. Spencer*, Megan H. Varnum*, Alicia M. Grubb, Michalis Famelis, “Towards a Generic Method for Articulating Design-time Uncertainty.” [To Appear] Journal of Object Technology JOT, 2021.'
