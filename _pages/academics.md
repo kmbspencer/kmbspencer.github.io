@@ -7,11 +7,16 @@ author_profile: true
 
 Select Courses
 ----
-| Class Number    |Title                              | 
-| ----------------|-----------------------------------| 
-| Engineering 360 | Avanced Thermodynamics            | 
+| Class Number    |Title                              |
+
+| ----------------|-----------------------------------|
+
+| Engineering 360 | Avanced Thermodynamics            |
+
 | Engineering 374 | Fluid Dynamics                    |
+
 | Engineering 390 | Mechanical Dynamics               |
+
 | Engineering 324 | Fundamentals of Microelectronics  |
 
 
