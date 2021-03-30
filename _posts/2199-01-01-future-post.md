@@ -1,11 +1,9 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Precious Plastics Shredder'
+date: 2020-09-01
+permalink: /posts/2020/09/shredder/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - design-thinking
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+In this presentation we will showcase the work that we have done in redesigning the open source Precious Plastics plastic shredder into a portable, easy to use, community driven machine. We will discuss our design process and decisions, as well as our plan for the machine's integration into the community. Additionally, we will provide updates on the fabrication process, and documentation of the machines current state.
