@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior from Seattle, WA interested in both computer science and engineering as well as sustainability and design. For the summer of 2020, I am a research assitant in the Grubb Lab at Smith. Outside of academics I sing in the Smith College Glee Club, and enjoy a variety of crafts.
+<img src="/images/IMG_2041.JPEG"
+     alt="Kate in a wind turbine costime"
+     style=" float: left; height: 100px; padding-left: 30px;" /> 
+I am a junior from Seattle, WA interested in both computer science and engineering as well as sustainability and design. For the summer of 2020, I am a research assistant in the Grubb Lab at Smith. Outside of academics I sing in the Smith College Glee Club, and enjoy a variety of crafts.
 
 <b>Please Note: This website is a work in progress!
