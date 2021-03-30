@@ -4,6 +4,21 @@ title: "Academics"
 excerpt: "transcript"
 author_profile: true
 ---
+
+Select Courses
+----
+Engineering 360: Avanced Thermodynamics
+Engineering 374: Fluid Dynamics
+Engineering 390: Mechanical Dynamics
+Engineering 324: Fundamentals of Microelectronics
+
+Engineering at Smith is an interdisciplinary program that encourages exploration and collaboration.
+[Department Site](https://www.smith.edu/academics/engineering)
+
+Skills
+----
+Java, Python, C, HTML, JavaScript, CSS, R, AutoCAD, and Fusion360
+
 Honors and Acheivements
 ----
 Tau Beta Kappa: Engineering honors society
