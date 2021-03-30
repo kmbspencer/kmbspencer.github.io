@@ -13,3 +13,4 @@ Dean's List 2019-2020
 
 
 My Transcript will appear here, eventually
+[Transcript](http://kmbspencer.github.io/files/Spencer-Academic-Transcript-F21.pdf)
