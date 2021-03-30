@@ -8,7 +8,7 @@ author_profile: true
 Select Courses
 ----
 | Class Number    |title                              | 
-| --------        | ------                            | 
+| ----------------|-----------------------------------| 
 | Engineering 360:| Avanced Thermodynamics            | 
 | Engineering 374:| Fluid Dynamics                    |
 | Engineering 390:|Mechanical Dynamics                |
