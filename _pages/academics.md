@@ -11,7 +11,7 @@ Select Courses
 | ----------------|-----------------------------------| 
 | Engineering 360 | Avanced Thermodynamics            | 
 | Engineering 374 | Fluid Dynamics                    |
-| Engineering 390 | Mechanical Dynamics                |
+| Engineering 390 | Mechanical Dynamics               |
 | Engineering 324 | Fundamentals of Microelectronics  |
 
 
