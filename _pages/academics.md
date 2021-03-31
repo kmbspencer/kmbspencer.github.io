@@ -8,7 +8,6 @@ author_profile: true
 Select Courses
 ----
 | Class Number    |Title                              |
-
 | ----------------|-----------------------------------|
 
 | Engineering 360 | Avanced Thermodynamics            |
