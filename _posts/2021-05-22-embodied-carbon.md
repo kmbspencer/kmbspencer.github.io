@@ -9,4 +9,4 @@ tags:
   - sustainability
 ---
 
-For my final project of Fluid Dynamics, I investegated the feasability of a phone charger made from a propeller hat.
+As a final project for Advanced Thermodynamics, I investigated the embodied carbon in the new Neilson Library construction, as part of a broader look at embodied carbon in construction on campus. The embodied carbon in a building is emissions not associated with its operation; that is to say any emissions associated with the making, manufacturing, and transport of the materials. This project gave me a chance to explore an area of sustainability I hadn't learned about before, and was very interesting. 
