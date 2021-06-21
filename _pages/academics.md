@@ -7,6 +7,7 @@ author_profile: true
 
 Select Courses
 ----
+A few favorite courses throughout my time at Smith.
 |Class Number|Title|
 
 |:-----------------:|:-----------------------------------:|
