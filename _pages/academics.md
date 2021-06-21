@@ -11,7 +11,7 @@ A few favorite courses throughout my time at Smith.
 
 | Class Number    | Title                              |
 
-|:-----------------|:-----------------------------------|
+|:----------------- |:----------------------------------- |
 
 | Engineering 360 | Avanced Thermodynamics            |
 
